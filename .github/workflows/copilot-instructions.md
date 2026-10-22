@@ -7,7 +7,7 @@ JavaScript y Vite.
 
 La rama principal de desarrollo es develop.
 
-## Revisión de código
+## Revisión de codigo
 - Responder los comentarios en español.
 - Revisar errores de sintaxis y lógica.
 - Detectar problemas de seguridad.
